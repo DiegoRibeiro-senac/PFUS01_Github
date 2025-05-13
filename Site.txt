@@ -1,3 +1,7 @@
+HEADER
+
 Logomarca do site
 
 Menu Principal
+
+FOOTER
